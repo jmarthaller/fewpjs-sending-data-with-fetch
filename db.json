@@ -61,6 +61,44 @@
       "dogName": "Jacobo",
       "dogBreed": "Mutt",
       "id": 11
+    },
+    {
+      "dogName": "dog",
+      "dogBreed": "doggy",
+      "submit": "Submit",
+      "id": 12
+    },
+    {
+      "dogName": "lous",
+      "dogBreed": "gerreg",
+      "submit": "Submit",
+      "id": 13
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 14
+    },
+    {
+      "dogName": "",
+      "dogBreed": "",
+      "submit": "Submit",
+      "id": 15
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 16
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 17
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 18
     }
   ],
   "cats": [
@@ -75,7 +113,26 @@
       "id": 2
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "userName": "",
+      "userEmail": "",
+      "submit": "Submit",
+      "id": 1
+    },
+    {
+      "userName": "Jacob",
+      "userEmail": "Jacob123@me.com",
+      "submit": "Submit",
+      "id": 2
+    },
+    {
+      "name": "jacob",
+      "email": "mr. jacobo to you",
+      "submit": "Submit",
+      "id": 3
+    }
+  ],
   "robots": [
     {
       "robotName": "C8-09S100K",
